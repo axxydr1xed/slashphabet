@@ -6,7 +6,7 @@ Read the description again. Alright, jokes aside, it's a simple encoding method 
 
 Slashphabet is awful for saving storage as it, instead of shortening, makes each character be from 3 to 8 times longer.
 
-It does NOT change digits or special characters - only letters. Y'know, slash**phabet**. Like an alphabet, but slashes.
+It does NOT change special characters - only letters and digits. Y'know, slash**phabet**. Like an alphabet, but slashes. And digits too, I guess, don't know where that goes in an alphabet though.
 
 It was made with Python 3.14.
 
