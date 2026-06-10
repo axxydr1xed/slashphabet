@@ -28,3 +28,6 @@ That's it. Replace `~/path/to/slash.py` with your actual path, obviously.
 
 ## slash.py doesn't work. what's the issue?
 You probably didn't download `slashdata.py` next to it. `slashdata.py` contains all the letter definitions, so it is required.
+
+## was this inspired by brainfuck?
+Yes, it was.
