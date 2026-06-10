@@ -31,3 +31,6 @@ You probably didn't download `slashdata.py` next to it. `slashdata.py` contains 
 
 ## was this inspired by brainfuck?
 Yes, it was.
+
+## is there any copyright?
+I mean, I don't care. Maybe mention it in the media you're using my thingy on, but it's not necessary, really.
