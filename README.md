@@ -1,4 +1,4 @@
-# slashphabet [description]
+# slashphabet
 Simple and secret-oriented encoding method built on Python.
 
 ## what's slashphabet?
@@ -12,25 +12,31 @@ It was made with Python 3.14.
 
 For a Linux build, hell no. Coming from a Linux user. Just use the raw script, it's right there, god dammit.
 
-# questions that will probably be asked
-## what are possible use cases, since it doesnt save storage?
+## questions that will probably be asked
+### what are possible use cases, since it doesnt save storage?
 ARGs, secrets, just anything outside of saving storage, to be completely honest.
 
-## what libraries does it use?
+### what libraries does it use?
 It only uses the `sleep` function from `time`, so there are no additional dependencies except for the `slashdata.py` file.
 
-## i'm a linux user, what do i do?
+### i'm a linux user, what do i do?
 ```bash
 cd ~/path/to/slash.py
 python3 slash.py
 ```
 That's it. Replace `~/path/to/slash.py` with your actual path, obviously.
 
-## slash.py doesn't work. what's the issue?
+### slash.py doesn't work. what's the issue?
 You probably didn't download `slashdata.py` next to it. `slashdata.py` contains all the letter definitions, so it is required.
 
-## was this inspired by brainfuck?
+### was this inspired by brainfuck?
 Yes, it was.
 
-## is there any copyright?
+### is there any copyright?
 I mean, I don't care. Maybe mention it in the media you're using my thingy on, but it's not necessary, really.
+
+### what letters/digits translate to what?
+Open `slashdata.py` in a text editor of your desire, from there you just read the ALPHABET and DIGITS dictionaries.
+
+### did you write this fully by yourself?
+Unfortunately, back when I made the `slash.py` script, I used AI to help me make the `decode` function. If I remember correctly I still wrote the `encode` one by myself though.
